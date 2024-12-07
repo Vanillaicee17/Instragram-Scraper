@@ -106,4 +106,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Disclaimer
 
 This tool is intended for personal use only. Scraping data from Instagram must adhere to Instagram's terms and policies.
-```
